@@ -1,0 +1,6 @@
+@Cba.API_HostAddress = http://neptunemfb.com/api
+
+GET {{Cba.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

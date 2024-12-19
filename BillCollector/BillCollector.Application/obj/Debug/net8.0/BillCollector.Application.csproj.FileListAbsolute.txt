@@ -1,0 +1,17 @@
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Application.deps.json
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Application.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Application.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Infrastructure.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Core.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\bin\Debug\net8.0\BillCollector.Infrastructure.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.AssemblyInfo.cs
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillColl.625EA8B0.Up2Date
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\refint\BillCollector.Application.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\BillCollector.Application.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Application\obj\Debug\net8.0\ref\BillCollector.Application.dll

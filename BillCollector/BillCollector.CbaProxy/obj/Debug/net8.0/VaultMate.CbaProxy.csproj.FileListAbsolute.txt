@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\bin\Debug\net8.0\VaultMate.CbaProxy.deps.json
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\bin\Debug\net8.0\VaultMate.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\bin\Debug\net8.0\VaultMate.CbaProxy.pdb
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.AssemblyInfo.cs
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.sourcelink.json
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\refint\VaultMate.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\VaultMate.CbaProxy.pdb
+C:\Users\Alex\Documents\xito\ovalcup\vaultmate\VaultMate\VaultMate.CbaProxy\obj\Debug\net8.0\ref\VaultMate.CbaProxy.dll

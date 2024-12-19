@@ -1,0 +1,17 @@
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.CbaProxy.deps.json
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.CbaProxy.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.Infrastructure.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.Infrastructure.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\bin\Debug\net8.0\BillCollector.Core.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.AssemblyInfo.cs
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillColl.DF52C01D.Up2Date
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\refint\BillCollector.CbaProxy.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\BillCollector.CbaProxy.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.CbaProxy\obj\Debug\net8.0\ref\BillCollector.CbaProxy.dll

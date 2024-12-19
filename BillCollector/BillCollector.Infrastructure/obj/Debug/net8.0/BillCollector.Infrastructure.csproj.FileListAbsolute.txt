@@ -1,0 +1,17 @@
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Infrastructure.deps.json
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Infrastructure.runtimeconfig.json
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Infrastructure.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Infrastructure.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\bin\Debug\net8.0\BillCollector.Core.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.AssemblyInfo.cs
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillColl.C00DE769.Up2Date
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\refint\BillCollector.Infrastructure.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\BillCollector.Infrastructure.genruntimeconfig.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Infrastructure\obj\Debug\net8.0\ref\BillCollector.Infrastructure.dll

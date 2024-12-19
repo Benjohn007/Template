@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|solutionrelative:billcollector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|solutionrelative:billcollector.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\dbcontexts\\billcollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\dbcontexts\\billcollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|solutionrelative:billcollector.core\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|solutionrelative:billcollector.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|solutionrelative:billcollector.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AE2C33-D9AC-483E-B724-1B876778E206}|BillCollector.Core\\BillCollector.Core.csproj|solutionrelative:billcollector.core\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|solutionrelative:billcollector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\migrations\\20241219030647_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\migrations\\20241219030647_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}|BillCollector.API\\BillCollector.API.csproj|solutionrelative:billcollector.api\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\appkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\appkeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\apilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\apilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\repository\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\repository\\mongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\repository\\imongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\repository\\imongodbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\repository\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\repository\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\repository\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\repository\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\logger\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\logger\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\logger\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\logger\\ilog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\httpclient\\restsharpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\httpclient\\restsharpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\httpclient\\irestsharpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\httpclient\\irestsharpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|c:\\users\\alex\\documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\billcollector\\billcollector.infrastructure\\dbcontexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}|BillCollector.Infrastructure\\BillCollector.Infrastructure.csproj|solutionrelative:billcollector.infrastructure\\dbcontexts\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BillCollector.Core\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BillCollector.Core\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:41.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BillCollector.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\User.cs",
+              "RelativeToolTip": "BillCollector.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:28.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "BillCollector.Core\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "BillCollector.Core\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:26.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "BillCollector.Core\\Entities\\Permission.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\Permission.cs",
+              "RelativeToolTip": "BillCollector.Core\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:38:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BillCollector.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BillCollector.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:29:15.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241219030647_initial_migration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Migrations\\20241219030647_initial_migration.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Migrations\\20241219030647_initial_migration.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Migrations\\20241219030647_initial_migration.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Migrations\\20241219030647_initial_migration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:13:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BillCollector.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\appsettings.json",
+              "RelativeToolTip": "BillCollector.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:15:35.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BillCollector.API\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\ServiceRegistration.cs",
+              "RelativeToolTip": "BillCollector.API\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:11:17.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\Program.cs",
+              "RelativeDocumentMoniker": "BillCollector.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.API\\Program.cs",
+              "RelativeToolTip": "BillCollector.API\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:10:56.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillCollectorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbContexts\\BillCollectorDbContext.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\DbContexts\\BillCollectorDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbContexts\\BillCollectorDbContext.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\DbContexts\\BillCollectorDbContext.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:10:46.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbInitializer.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\DbInitializer.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwEQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:42:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppKeys.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\AppKeys.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\AppKeys.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\AppKeys.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\AppKeys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:42:50.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiLog.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\ApiLog.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\ApiLog.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\ApiLog.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\ApiLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:42:48.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:42:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:56.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MongoDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\MongoDbRepository.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Repository\\MongoDbRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\MongoDbRepository.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Repository\\MongoDbRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:50.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMongoDbRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\IMongoDbRepository.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Repository\\IMongoDbRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\IMongoDbRepository.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Repository\\IMongoDbRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:47.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\IDapperRepository.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Repository\\IDapperRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\IDapperRepository.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Repository\\IDapperRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:45.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:38.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\DapperRepository.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Repository\\DapperRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Repository\\DapperRepository.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Repository\\DapperRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:41:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Logger\\LogService.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Logger\\LogService.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Logger\\LogService.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Logger\\LogService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:40:45.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILog.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Logger\\ILog.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\Logger\\ILog.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\Logger\\ILog.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\Logger\\ILog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:40:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RestSharpClient.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\HttpClient\\RestSharpClient.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\HttpClient\\RestSharpClient.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\HttpClient\\RestSharpClient.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\HttpClient\\RestSharpClient.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwH4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:40:33.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRestSharpClient.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\HttpClient\\IRestSharpClient.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\HttpClient\\IRestSharpClient.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\HttpClient\\IRestSharpClient.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\HttpClient\\IRestSharpClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:40:30.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbContexts\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "BillCollector.Infrastructure\\DbContexts\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\xito\\ovalcup\\bill_collector\\backend\\billcollector-backend\\BillCollector\\BillCollector.Infrastructure\\DbContexts\\MongoDbContext.cs",
+              "RelativeToolTip": "BillCollector.Infrastructure\\DbContexts\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:40:26.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

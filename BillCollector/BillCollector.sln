@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.Core", "BillCollector.Core\BillCollector.Core.csproj", "{86AE2C33-D9AC-483E-B724-1B876778E206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.Application", "BillCollector.Application\BillCollector.Application.csproj", "{B2626E3D-FCF8-4FE5-9E1F-0824E5C4D74F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.Infrastructure", "BillCollector.Infrastructure\BillCollector.Infrastructure.csproj", "{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.API", "BillCollector.API\BillCollector.API.csproj", "{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.Tests", "BillCollector.Tests\BillCollector.Tests.csproj", "{D7F8C765-1120-431B-9938-DACCB2B57DA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillCollector.CbaProxy", "BillCollector.CbaProxy\BillCollector.CbaProxy.csproj", "{1F69C761-374C-432C-9F48-E588BB3F0733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AE2C33-D9AC-483E-B724-1B876778E206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AE2C33-D9AC-483E-B724-1B876778E206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AE2C33-D9AC-483E-B724-1B876778E206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AE2C33-D9AC-483E-B724-1B876778E206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2626E3D-FCF8-4FE5-9E1F-0824E5C4D74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2626E3D-FCF8-4FE5-9E1F-0824E5C4D74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2626E3D-FCF8-4FE5-9E1F-0824E5C4D74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2626E3D-FCF8-4FE5-9E1F-0824E5C4D74F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA200C69-669C-4813-BB1A-1D75D3A6FFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8F21E9-95A8-4F9B-8CFA-8375341CD5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F8C765-1120-431B-9938-DACCB2B57DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F8C765-1120-431B-9938-DACCB2B57DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F8C765-1120-431B-9938-DACCB2B57DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F8C765-1120-431B-9938-DACCB2B57DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F69C761-374C-432C-9F48-E588BB3F0733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F69C761-374C-432C-9F48-E588BB3F0733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F69C761-374C-432C-9F48-E588BB3F0733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F69C761-374C-432C-9F48-E588BB3F0733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD16B47C-3A82-4072-9826-E07A1F1E7511}
+	EndGlobalSection
+EndGlobal

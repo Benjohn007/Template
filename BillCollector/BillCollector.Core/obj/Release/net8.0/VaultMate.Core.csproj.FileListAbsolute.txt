@@ -1,0 +1,12 @@
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\bin\Release\net8.0\Passport.Core.deps.json
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\bin\Release\net8.0\Passport.Core.dll
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\bin\Release\net8.0\Passport.Core.pdb
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.AssemblyInfo.cs
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.sourcelink.json
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.dll
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\refint\Passport.Core.dll
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\Passport.Core.pdb
+C:\Users\Alex\Documents\Alex.Official\Nx360_v2\src\Passport\Passport\Passport.Core\obj\Release\net8.0\ref\Passport.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\bin\Debug\net8.0\BillCollector.Core.deps.json
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\bin\Debug\net8.0\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\bin\Debug\net8.0\BillCollector.Core.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.AssemblyInfo.cs
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\refint\BillCollector.Core.dll
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\BillCollector.Core.pdb
+C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.Core\obj\Debug\net8.0\ref\BillCollector.Core.dll

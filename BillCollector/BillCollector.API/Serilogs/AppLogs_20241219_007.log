@@ -1,0 +1,50 @@
+2024-12-19 04:45:58.069 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("231"ms) [Parameters=[""], CommandType='Text', CommandTimeout='1000']"
+""SELECT r.\"Id\", r.\"CreatedAt\", r.\"CreatedBy\", r.\"Description\", r.\"IsDeleted\", r.\"LastModifiedAt\", r.\"LastModifiedBy\", r.\"Name\"
+FROM \"Roles\" AS r
+WHERE r.\"Name\" = 'SuperAdmin'
+LIMIT 1" 
+ 2024-12-19 04:45:58.353 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("230"ms) [Parameters=["@p0='2024-12-19T03:45:58.1225519Z' (DbType = DateTime), @p1='SYSTEM' (Nullable = false), @p2='admin@billcollector.com' (Nullable = false), @p3='True', @p4='0', @p5='System' (Nullable = false), @p6='False', @p7=NULL (DbType = DateTime), @p8=NULL (DbType = DateTime), @p9=NULL, @p10='Administrator' (Nullable = false), @p11='c25f6ceb884e991ca01360f451ab2a81' (Nullable = false), @p12=NULL (DbType = DateTime), @p13=NULL, @p14='2348166423487' (Nullable = false), @p15='True', @p16='ACTIVE' (Nullable = false), @p17='False'"], CommandType='Text', CommandTimeout='1000']"
+""INSERT INTO \"Users\" (\"CreatedAt\", \"CreatedBy\", \"Email\", \"EmailVerified\", \"FailedLoginAttempts\", \"FirstName\", \"IsDeleted\", \"LastLoginAt\", \"LastModifiedAt\", \"LastModifiedBy\", \"LastName\", \"PasswordHash\", \"PasswordResetExpires\", \"PasswordResetToken\", \"PhoneNumber\", \"PhoneVerified\", \"Status\", \"TwoFactorEnabled\")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17)
+RETURNING \"Id\";" 
+ 2024-12-19 04:45:58.607 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("231"ms) [Parameters=["@p0='2024-12-19T03:45:58.3754918Z' (DbType = DateTime), @p1='SYSTEM' (Nullable = false), @p2='False', @p3=NULL (DbType = DateTime), @p4=NULL, @p5='1', @p6='1'"], CommandType='Text', CommandTimeout='1000']"
+""INSERT INTO \"UserRoles\" (\"CreatedAt\", \"CreatedBy\", \"IsDeleted\", \"LastModifiedAt\", \"LastModifiedBy\", \"RoleId\", \"UserId\")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6)
+RETURNING \"Id\";" 
+ 2024-12-19 04:45:58.718 +01:00 [INF] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager   User profile is available. Using '"C:\Users\Alex\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest. 
+ 2024-12-19 04:45:58.884 +01:00 [INF] Microsoft.Hosting.Lifetime   Application started. Press Ctrl+C to shut down. 
+ 2024-12-19 04:45:58.884 +01:00 [INF] Microsoft.Hosting.Lifetime   Hosting environment: "Development" 
+ 2024-12-19 04:45:58.884 +01:00 [INF] Microsoft.Hosting.Lifetime   Content root path: "C:\Users\Alex\Documents\xito\ovalcup\bill_collector\b\VaultMate\BillCollector.API" 
+ 2024-12-19 04:45:58.895 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/index.html""" - null null 
+ 2024-12-19 04:45:59.959 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/index.html""" - 200 null "text/html;charset=utf-8" 1066.5425ms 
+ 2024-12-19 04:46:00.053 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "GET" "https"://"localhost:44305""""/_vs/browserLink""" - null null 
+ 2024-12-19 04:46:00.053 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "GET" "https"://"localhost:44305""""/_framework/aspnetcore-browser-refresh.js""" - null null 
+ 2024-12-19 04:46:00.076 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "GET" "https"://"localhost:44305""""/_framework/aspnetcore-browser-refresh.js""" - 200 13770 "application/javascript; charset=utf-8" 16.6353ms 
+ 2024-12-19 04:46:00.326 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "GET" "https"://"localhost:44305""""/_vs/browserLink""" - 200 null "text/javascript; charset=UTF-8" 273.4154ms 
+ 2024-12-19 04:46:00.450 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/v1/swagger.json""" - null null 
+ 2024-12-19 04:46:00.496 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/favicon-32x32.png""" - null null 
+ 2024-12-19 04:46:00.975 +01:00 [INF] Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware   Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' 
+ 2024-12-19 04:46:00.976 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/favicon-32x32.png""" - 200 628 "image/png" 480.0757ms 
+ 2024-12-19 04:46:01.023 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "GET" "https"://"localhost:44305""""/swagger/v1/swagger.json""" - 200 null "application/json;charset=utf-8" 573.1917ms 
+ 2024-12-19 04:46:27.656 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request starting "HTTP/2" "POST" "https"://"localhost:44305""""/api/Auth/login""" - "application/json" 67 
+ 2024-12-19 04:46:27.659 +01:00 [INF] Microsoft.AspNetCore.Cors.Infrastructure.CorsService   CORS policy execution successful. 
+ 2024-12-19 04:46:27.663 +01:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware   Executing endpoint '"BillCollector.API.Controllers.AuthController.Login (BillCollector.API)"' 
+ 2024-12-19 04:46:27.683 +01:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker   Route matched with "{action = \"Login\", controller = \"Auth\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] Login(Request)" on controller "BillCollector.API.Controllers.AuthController" ("BillCollector.API"). 
+ 2024-12-19 04:46:28.046 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("236"ms) [Parameters=[""], CommandType='Text', CommandTimeout='1000']"
+""SELECT u.\"Id\", u.\"CreatedAt\", u.\"CreatedBy\", u.\"Email\", u.\"EmailVerified\", u.\"FailedLoginAttempts\", u.\"FirstName\", u.\"IsDeleted\", u.\"LastLoginAt\", u.\"LastModifiedAt\", u.\"LastModifiedBy\", u.\"LastName\", u.\"PasswordHash\", u.\"PasswordResetExpires\", u.\"PasswordResetToken\", u.\"PhoneNumber\", u.\"PhoneVerified\", u.\"Status\", u.\"TwoFactorEnabled\"
+FROM \"Users\" AS u
+WHERE NOT (u.\"IsDeleted\")" 
+ 2024-12-19 04:46:28.383 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("234"ms) [Parameters=["@__user_Id_0='1'"], CommandType='Text', CommandTimeout='1000']"
+""SELECT u.\"Id\", u.\"CreatedAt\", u.\"CreatedBy\", u.\"IsDeleted\", u.\"LastModifiedAt\", u.\"LastModifiedBy\", u.\"RoleId\", u.\"UserId\", r.\"Id\", r.\"CreatedAt\", r.\"CreatedBy\", r.\"Description\", r.\"IsDeleted\", r.\"LastModifiedAt\", r.\"LastModifiedBy\", r.\"Name\"
+FROM \"UserRoles\" AS u
+INNER JOIN \"Roles\" AS r ON u.\"RoleId\" = r.\"Id\"
+WHERE u.\"UserId\" = @__user_Id_0" 
+ 2024-12-19 04:46:28.741 +01:00 [INF] Microsoft.EntityFrameworkCore.Database.Command   Executed DbCommand ("314"ms) [Parameters=["@__roleIds_0={ '1' } (DbType = Object)"], CommandType='Text', CommandTimeout='1000']"
+""SELECT p.\"Id\", p.\"CreatedAt\", p.\"CreatedBy\", p.\"IsDeleted\", p.\"LastModifiedAt\", p.\"LastModifiedBy\", p.\"PermissionName\", p.\"RoleId\"
+FROM \"Permissions\" AS p
+WHERE p.\"RoleId\" = ANY (@__roleIds_0)" 
+ 2024-12-19 04:46:28.803 +01:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor   Executing "BadRequestObjectResult", writing value of type '"BillCollector.Application.ApiResponseDto`1[[BillCollector.Application.Dto.Auth.LoginDto+Response, BillCollector.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. 
+ 2024-12-19 04:46:28.829 +01:00 [INF] Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker   Executed action "BillCollector.API.Controllers.AuthController.Login (BillCollector.API)" in 1141.3472ms 
+ 2024-12-19 04:46:28.829 +01:00 [INF] Microsoft.AspNetCore.Routing.EndpointMiddleware   Executed endpoint '"BillCollector.API.Controllers.AuthController.Login (BillCollector.API)"' 
+ 2024-12-19 04:46:28.832 +01:00 [INF] Microsoft.AspNetCore.Hosting.Diagnostics   Request finished "HTTP/2" "POST" "https"://"localhost:44305""""/api/Auth/login""" - 400 null "application/json; charset=utf-8" 1176.5329ms 
+ 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5HlhP+x6CBMtHYRjutfXUskxPIJycF+zKeiLuGV08ug=",
+  "Source": "BillCollector.API",
+  "BasePath": "_content/BillCollector.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
